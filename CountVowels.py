@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 20 19:48:16 2017
 
-@author: chikam88
+@author: amylee00
 """
 
 s = 'abc' #string
